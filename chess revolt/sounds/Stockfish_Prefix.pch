@@ -1,0 +1,14 @@
+//
+// Prefix header for all source files of the 'Glaurung' target in the 'Glaurung' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
+
+
+#define equals isEqualToString
+#define EQUALS isEqualToString
+#define IS isEqualToString
+#define is isEqualToString

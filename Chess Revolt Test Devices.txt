@@ -1,0 +1,4 @@
+Device ID	Device Name
+b7db98f27ca5efa307cefcc1175445b1b06c7543	Michael’s iPhone
+4ac58bd0b6468e9acb3d1b496f8fee8d909c168f	Jamal’s iPad
+9ecbd955ee84be640109afcb044658af6ee26f2c	Michael’s iPad
